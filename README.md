@@ -11,6 +11,7 @@ Algorytm wykonywany jest w dwóch turach:
 Pliki wejściowe powinny znajdować się w folderze `resources`, tam również będzie znajdował się plik z wynikami.
 
 Złożoność algorytmu Dijkstry O(E * logV)
+
 **Zadanie drugie**
 
 Z uwagi na użycie hashMapy i obliczenie wartości w algorytmie dla wszystkich elementów,
